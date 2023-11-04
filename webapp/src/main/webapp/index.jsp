@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head><title>Web App</title></head>
-<body background="https://wallpapercave.com/wp/wp8731587.jpg">
+<body>
   <%
     double num = Math.random();
     if (num > 0.5) {
