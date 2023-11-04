@@ -6,7 +6,7 @@
     double num = Math.random();
     if (num > 0.5) {
   %>
-      <h2>Bienvenue !!!</h2>
+      <h2>Bienvenue !!!!</h2>
       <h2>Le nombre est au-dessus de la moyenne !</h2><p>(<%= num %>)</p>
   <%
     } else {
